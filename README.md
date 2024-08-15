@@ -44,12 +44,8 @@ Replace `pattern_name.py` with the name of the pattern script you want to run.
 
 ## How to Contribute
 
-Contributions are welcome! If you have new patterns to add or improvements to make, feel free to fork the repository and submit a pull request. Please make sure your code follows the repository's coding standards and includes comments explaining the logic.
+Contributions are welcome! If you happen to have new patterns or improvements to add, feel free to fork the repository and submit a pull request. Please ensure your code follows the repository's coding standards and includes comments explaining the logic.
 
 ## License
 
 This repository is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
-
----
-
-This README file provides a structured overview of your repository, helping others understand its purpose and how to use it.
