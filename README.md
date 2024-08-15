@@ -37,7 +37,10 @@ Pattern programming is a fundamental concept in computer science that helps in b
 To use the code, simply clone this repository and run the Python scripts in your local environment. You can execute any pattern script by running:
 
 ```bash
-python<your python version> pattern(1-11).py
+python pattern(1-11).py
+or
+python3 pattern(1-11).py
+
 ```
 
 Replace `pattern_name.py` with the name of the pattern script you want to run.
