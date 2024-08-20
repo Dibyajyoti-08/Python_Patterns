@@ -1,5 +1,5 @@
 '''
-This is the pattern code to print the character
+This is the pattern code to print the characters
 which will be in the half pyramid pattern,
 A 
 B B 
