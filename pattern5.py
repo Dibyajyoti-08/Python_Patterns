@@ -1,7 +1,6 @@
 '''
 This is the patter code to print the '*'
-using the recursion method as its shown 
-in the below diagram,
+as its shown in the below diagram,
 *********
  *******
   *****
